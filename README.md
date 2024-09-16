@@ -1,4 +1,6 @@
 # GreenBuddy
+![Logo](https://i.imgur.com/7pS73DW.png)
+
 GreenBuddy is a smart plant monitoring system that uses a custom soil moisture sensor and a Raspberry Pi to track soil moisture levels. The system sends real-time moisture data to a cloud-based serverless architecture built on AWS, providing automated notifications to users for plant care.
 
 ## Features
